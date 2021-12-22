@@ -1,4 +1,4 @@
-export const CharactersList = () => {
+export const Home = () => {
     return (
         <div>
             
