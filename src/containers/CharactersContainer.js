@@ -1,6 +1,7 @@
 import {useState, useEffect} from 'react'
 import { CharactersFilter } from '../components/characters/CharactersFilter'
 import { CharactersList } from '../components/characters/CharactersList'
+import React from 'react'
 
 export const CharactersContainer = () => {
     const [characters, setCharacters] = useState([])

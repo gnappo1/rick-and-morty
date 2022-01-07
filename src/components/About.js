@@ -1,3 +1,5 @@
+import React from 'react'
+
 export const About = () => {
     return (
         <div style={{width: "60%", marginLeft: "20%"}}>

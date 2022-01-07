@@ -1,3 +1,5 @@
+import React from 'react'
+
 export const Header = ({slogan, storeName}) => {
     return (
         <div>

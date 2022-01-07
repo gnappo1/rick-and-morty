@@ -1,5 +1,6 @@
 import {NavLink} from 'react-router-dom'
 import './Navbar.css';
+import React from 'react'
 
 const style = {
     width: "60%",
